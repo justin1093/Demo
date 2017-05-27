@@ -5,6 +5,8 @@
     android:layout_height="wrap_content"
 
     tools:context="com.example.justin.demo.SplashScreen">
+
+
     
     <ImageView
         android:layout_width="match_parent"
